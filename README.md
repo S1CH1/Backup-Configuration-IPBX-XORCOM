@@ -14,7 +14,7 @@ nas-backup-scripts/
 └── LICENSE (MIT)
 ```
 
-## 📄 README.md (extrait)
+## 📄 README.md 
 ```md
 # NAS Backup Scripts – Xorcom IPBX
 
