@@ -33,27 +33,4 @@ chmod +x debian_11_tar.sh
 sudo ./debian_11_tar.sh
 ```
 
-### Tâche CRON installée automatiquement :
-```
-0 2 * * 1 root /root/backup_nfs
-```
-
-### Auteur
-Sacha Veyon Rodriguez – Stage SBS79 – 2025
-```
-
-## 📄 .gitignore
-```
-*.tar
-*.zip
-*.log
-/tmp/*
-/mnt/*
-```
-
-## 📝 Licence
-MIT – Libre d'utilisation et de modification.
-
----
-Souhaites-tu que je te génère un `.zip` complet avec tous les fichiers prêts à publier sur GitHub ?
 
